@@ -1,3 +1,0 @@
-- SE400_Seminar_CNPM
-    - Crawl_Data
-        - base_dict_
