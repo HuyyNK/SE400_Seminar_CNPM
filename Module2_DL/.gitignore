@@ -13,23 +13,6 @@ build/
 venv/
 env/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints
-
-# Model Artifacts
-artifacts/*.h5
-artifacts/*.pkl
-artifacts/*.json
-artifacts/*.png
-
-# Embeddings (large files)
-embeddings/*.txt
-embeddings/*.zip
-embeddings/*.gz
-
-# Data (if large)
-# ../../Data/*.csv
 
 # IDE
 .vscode/

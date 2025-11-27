@@ -1,0 +1,18 @@
+{
+  "model_type": "cnn",
+  "max_len": 250,
+  "max_words": 50000,
+  "embedding_dim": 300,
+  "vocab_size": 50000,
+  "label_cols": [
+    "toxic",
+    "severe_toxic",
+    "obscene",
+    "threat",
+    "insult",
+    "identity_hate"
+  ],
+  "batch_size": 256,
+  "epochs": 20,
+  "best_epoch": 6
+}
