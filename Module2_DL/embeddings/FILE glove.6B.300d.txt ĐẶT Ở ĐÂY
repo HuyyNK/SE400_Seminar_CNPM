@@ -1,0 +1,3 @@
+https://nlp.stanford.edu/projects/glove/
+Tải về Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 50d, 100d, 200d, & 300d vectors, 822 MB download): glove.6B.zip
+Giải nén và chèn file glove.6B.300d.txt vào thư mục Module2_DL\embeddings

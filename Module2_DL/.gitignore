@@ -13,7 +13,6 @@ build/
 venv/
 env/
 
-
 # IDE
 .vscode/
 .idea/
@@ -23,7 +22,3 @@ env/
 # OS
 .DS_Store
 Thumbs.db
-
-# Logs
-*.log
-logs/
