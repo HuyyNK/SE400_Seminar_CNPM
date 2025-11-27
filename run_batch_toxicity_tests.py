@@ -26,7 +26,6 @@ try:
 except ImportError as exc:
     raise SystemExit("Please install nltk to run this script: pip install nltk") from exc
 
-from CrawlData.model import ToxicPhraseDetector
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
