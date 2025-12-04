@@ -1,0 +1,18 @@
+{
+    "max_words": 50000,
+    "max_len": 150,
+    "max_char_len": 200,
+    "embedding_dim": 300,
+    "char_emb_dim": 48,
+    "char_num_filters": 128,
+    "lstm_units_layer1": 128,
+    "lstm_units_layer2": 64,
+    "lstm_units_layer3": 32,
+    "num_attention_heads": 4,
+    "attention_key_dim": 64,
+    "trainable_embedding": false,
+    "l2_reg": 0.01,
+    "batch_size": 32,
+    "epochs": 5,
+    "learning_rate": 0.001
+}

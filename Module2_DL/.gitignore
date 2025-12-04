@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv_tf/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+evaluation
+export_artifacts
+threshold_optimization
+reports/*.txt
+
+# Model artifacts (optional - uncomment if too large for git)
+# artifacts/models/*.h5
+# embeddings/*.txt
+
+# OS
+.DS_Store
+Thumbs.db
